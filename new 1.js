@@ -16,6 +16,5 @@ addBtn.addEventListener("click", function() {
     });
 
     taskList.appendChild(li);
-    taskInput.value = ""; // يمسح النص بعد الإضافة
-  }
+    taskInput.value = "";   }
 });
